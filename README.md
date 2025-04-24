@@ -21,6 +21,10 @@
 - **Frameworks**: Flask, python-telegram-bot, vk_api, requests, pywhatkit
 - **Scraping Arsenal**: Selenium, BeautifulSoup4, Scrapy, Requests, aiohttp
 
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aiti1403&show_icons=true&theme=radical)
+
 ## 📫 Let's Connect!
 Profi.ru: [https://profi.ru/AntipovMI5](https://profi.ru/profile/AntipovMI5)
 
