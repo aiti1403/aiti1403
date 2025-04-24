@@ -22,7 +22,7 @@
 - **Scraping Arsenal**: Selenium, BeautifulSoup4, Scrapy, Requests, aiohttp
 
 ## 📫 Let's Connect!
-[![Profi.ru](https://img.shields.io/badge/Profi.ru-FF6B00?style=for-the-badge&logo=profi&logoColor=white)]([https://profi.ru/profile/AntipovMI5](https://profi.ru/profile/AntipovMI5))
+https://profi.ru/profile/AntipovMI5
 
 _Turning ideas into code and challenges into solutions_ ✨
 
